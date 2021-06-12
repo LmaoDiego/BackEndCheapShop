@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OPSO" target="15" />
+      <module name="OPSO" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
